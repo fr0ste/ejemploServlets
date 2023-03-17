@@ -21,14 +21,14 @@
 
 
                             <label>nombre</label>
-                            <input type="text" name="name" placeholder="nombre">
+                            <input class="form-control" type="text" name="name" placeholder="nombre">
 
                             <br>
                             <label>contraseña</label>
-                            <input type="text" value="" name="pass" placeholder="pass">
+                            <input class="form-control" type="text" value="" name="pass" placeholder="pass">
 
                         </div>
-                        <div class="card-footer"><button>enviar</button></div>
+                        <div class="card-footer"><button class="btn btn-success">enviar</button></div>
 
                     </div>
 
